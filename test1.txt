@@ -1,1 +1,6 @@
 this is a test for git second file
+these are the chages after the commit locally
+
+this is the change after 3 commits
+
+testing the git reset
